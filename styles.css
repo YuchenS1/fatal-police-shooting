@@ -1,0 +1,103 @@
+.d3-component svg {
+  background: #ddd;
+  max-height: 300px;
+}
+
+@media all and (max-width: 1000px) {
+  .d3-component svg {
+    max-height: 200px;
+  }
+}
+
+body {
+  background-color: white;
+}
+
+.stepTitle {
+  margin-bottom: 16px;
+}
+
+.customSelect {
+  padding: 4px;
+  margin-right: 8px;
+  background-color: #f0f9fa;
+  outline-color: #006f74;
+  color: #006f74;
+}
+
+.inputLabel {
+  margin: 0px;
+}
+
+.inputComponent {
+  margin-bottom: 16px;
+}
+
+.imageCaption {
+  background: #f0f9fa;
+  border: 2px;
+  border-style: solid;
+  border-color: #006f74;
+  padding: 16px;
+  font-family: palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-size: 1.4rem;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.imageCaption h3 {
+  font-size: 1em;
+  font-weight: bold;
+  margin: 0.25em 0;
+}
+
+.idyll-stepper {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.idyll-step-graphic {
+  background: white;
+  margin: 0px;
+}
+
+.idyll-step-content{
+  background: none;
+  color: black;
+}
+
+header h1 {
+  letter-spacing: 1px;
+  color: #baefed;
+  margin: 0;
+  line-height: 1;
+}
+
+header {
+  padding-top: 50%;
+  padding-bottom: 50%;
+  background: #222;  
+}
+
+.outline {
+  color: #E26C31;
+}
+
+h0 {
+  color: #E26C31;
+  font-size: 340px;
+  font-weight: 800;
+}
+
+h3 {
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.idyll-text-container {
+  max-width: 900px !important;
+  margin: 0 auto;
+}
