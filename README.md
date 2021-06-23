@@ -5,15 +5,15 @@
 
 ## Team Members
 
-Tim Li, Chris Chen, Yuchen Sun
+Yuchen Sun, Tim Li, Chris Chen
 
 ### Contribution Statements
+Yuchen Sun organized weekly meetings, conducted user tests, and worked on creating most of the visualization via D3 and Vega-lite, designing the general layout of the website.
 
-Tim Li worked on maintaining consistency on the Github repo, creating some visualizations via Tableau, and facilitating discussions.
+Tim Li worked on maintaining consistency on the Github repo, creating some visualizations via Tableau, and proofreading the writing.
 
-Chris Chen was responsible for writing the most of the narrative, creating some of the visualizations via Tableau, and arranging meetings.
+Chris Chen was responsible for writing the most of the narrative, creating some of the visualizations via Tableau, and debugging javascript codes.
 
-Yuchen Sun worked on creating most of the visualization via D3 and Vega-lite, designing the general layout of the website, and recording the demo video.
 
 ## Project Proposal Abstract
 
